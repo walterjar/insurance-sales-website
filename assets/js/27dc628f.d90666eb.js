@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkinsurance_sales_website=self.webpackChunkinsurance_sales_website||[]).push([[8919],{6248:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/insurance-sales-website/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":6,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

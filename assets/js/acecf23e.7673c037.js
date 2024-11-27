@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkinsurance_sales_website=self.webpackChunkinsurance_sales_website||[]).push([[1903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/insurance-sales-website/blog","blogTitle":"Blog","authorsListPath":"/insurance-sales-website/blog/authors"}')}}]);
